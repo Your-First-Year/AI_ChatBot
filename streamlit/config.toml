@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#d32f2f"  # Canada red
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f8f9fa"
+textColor="#2c2c2c"
+font="sans serif"
